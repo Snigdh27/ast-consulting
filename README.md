@@ -52,3 +52,7 @@ Before running the project, make sure you have the following installed:
 ![image](https://github.com/Snigdh27/ast-consulting/assets/74950528/83ade6b6-fcd7-48ff-a6a3-27d66bec159a)
 
 
+### Telegram bot
+
+![image](https://github.com/Snigdh27/ast-consulting/assets/74950528/c1e7810b-8656-4469-accb-06858c624c25)
+
