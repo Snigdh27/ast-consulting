@@ -75,5 +75,5 @@ Before running the project, make sure you have the following installed:
 
 
 
-![Bot](![image](https://github.com/Snigdh27/ast-consulting/assets/74950528/c99d465d-04f5-4eb7-8180-b35959270a2c)
-)
+![image](https://github.com/Snigdh27/ast-consulting/assets/74950528/a1de9e98-7248-452d-9e2b-60ba86ba4c71)
+
